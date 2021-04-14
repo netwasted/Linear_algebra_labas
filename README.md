@@ -1,2 +1,2 @@
 # Linear_algebra_labas
-linear algebra labы
+LAB2 - Linear regression
